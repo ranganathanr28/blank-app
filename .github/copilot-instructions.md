@@ -22,3 +22,6 @@
 ## Documentation Rules
 - Update README or module-level docs when adding new features.
 
+@include .github/instructions/security.md
+@include .github/instructions/testing.md
+@include .github/instructions/architecture.md
